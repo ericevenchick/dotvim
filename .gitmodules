@@ -1,0 +1,12 @@
+[submodule "pack/my-plugins/start/vim-airline"]
+	path = pack/my-plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/my-plugins/gruvbox"]
+	path = pack/my-plugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/my-plugins/start/nerdtree"]
+	path = pack/my-plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/my-plugins/start/youcompleteme"]
+	path = pack/my-plugins/start/youcompleteme
+	url = https://github.com/valloric/youcompleteme
