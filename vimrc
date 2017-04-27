@@ -62,3 +62,14 @@ syntax enable
 
 set background=dark
 colorscheme gruvbox
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" plugins                                        "
+""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" YouCompleteMe
+""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" set default ycm_extra_conf to prevent errors when there is none
+let g:ycm_global_ycm_extra_conf = '~/.vim/pack/my-plugins/start/youcompleteme/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
