@@ -10,3 +10,9 @@
 [submodule "pack/my-plugins/start/youcompleteme"]
 	path = pack/my-plugins/start/youcompleteme
 	url = https://github.com/valloric/youcompleteme
+[submodule "pack/my-plugins/start/scvim"]
+	path = pack/my-plugins/start/scvim
+	url = https://github.com/supercollider/scvim
+[submodule "pack/my-plugins/start/vimwiki"]
+	path = pack/my-plugins/start/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
